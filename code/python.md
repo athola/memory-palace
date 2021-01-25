@@ -8,5 +8,5 @@ description: Information related to the python programming language
 
 ### Links
 
-* \[Unit Testing\]\(../code/unit-testing\#python\)
+* \[Unit Testing\]\(../unit-testing.md\#python\)
 
