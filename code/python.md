@@ -10,5 +10,3 @@ description: Information related to the python programming language
 
 * \[Unit Testing\]\(../unit-testing.md\#python\)
 
-
-
