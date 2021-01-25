@@ -14,10 +14,22 @@
 
 ## Learning
 
+* [Challenges](learning/challenges.md)
 * [Networks](learning/networks.md)
 
 ## Code
 
+* [Protobuf](code/protobuf.md)
+* [Infosec](code/infosec.md)
+* [Python](code/python/README.md)
+  * [Infosec](code/python/infosec.md)
+  * [Flask](code/python/flask.md)
 * [Unit Testing](code/unit-testing.md)
-* [Python](code/python.md)
+
+## Operating Systems
+
+* [Linux](operating-systems/linux/README.md)
+  * [Debian](operating-systems/linux/debian.md)
+* [BSD](operating-systems/bsd/README.md)
+  * [OpenBSD](operating-systems/bsd/openbsd.md)
 
